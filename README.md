@@ -29,4 +29,6 @@ Vi har testet dette med alle vores metroer, og det burde fungere fint med dem un
 
 Firmwaren ombord er en lille variant af Arduino WiFiNINA kernen, som fungerer fantastisk! På nuværende tidspunkt er forbindelse til Enterprise WiFi ikke understøttet endnu.
 
-Tjek vores læringssystemguide for skemaer, filer og for at komme i gang AirLift'in' inden for få minutter!
+# Videre læsning
+* Github - adafruit / Adafruit_CircuitPython_ESP32SPI<br />https://github.com/adafruit/Adafruit_CircuitPython_ESP32SPI
+* Adafruit AirLift Shield - ESP32 WiFi Co-Processor<br />https://learn.adafruit.com/adafruit-airlift-shield-esp32-wifi-co-processor
