@@ -32,3 +32,4 @@ Firmwaren ombord er en lille variant af Arduino WiFiNINA kernen, som fungerer fa
 # Videre læsning
 * Github - adafruit / Adafruit_CircuitPython_ESP32SPI<br />https://github.com/adafruit/Adafruit_CircuitPython_ESP32SPI
 * Adafruit AirLift Shield - ESP32 WiFi Co-Processor<br />https://learn.adafruit.com/adafruit-airlift-shield-esp32-wifi-co-processor
+* ladyada / Adafruit_CircuitPython_ESP32SPI<br />https://github.com/ladyada/Adafruit_CircuitPython_ESP32SPI
